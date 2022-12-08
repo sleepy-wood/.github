@@ -1,3 +1,5 @@
+<img src="banner.jpeg" alt="banner" width="100%" height="300px" />
+
 # Sleepywood 👋
 
 ## 📌 프로젝트 소개
