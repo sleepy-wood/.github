@@ -24,5 +24,5 @@
 ## 프로젝트 산출물
 
 - [기획서](https://github.com/sleepy-wood/Overview/blob/main/%EA%B8%B0%ED%9A%8D%EC%84%9C/Sleepywood%20%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
-- [발표자료](https://github.com/mtvs-anigram/Overview/blob/main/ANIGRAM-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
-- [주차보고서]()
+- [발표자료](https://github.com/sleepy-wood/Overview/tree/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+- [주차보고서](https://github.com/sleepy-wood/Overview/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C)
