@@ -1,4 +1,4 @@
-<img src="banner.jpeg" alt="banner" width="100%" height="300px" />
+<img src="https://github.com/sleepy-wood/.github/blob/main/profile/banner.jpeg" alt="banner" width="100%" height="300px" />
 
 # Sleepywood 👋
 
