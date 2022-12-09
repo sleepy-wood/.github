@@ -1,4 +1,4 @@
-<img src="https://github.com/sleepy-wood/.github/blob/main/profile/sleepywood.png" alt="banner" />
+![banner](https://github.com/sleepy-wood/.github/blob/main/profile/sleepywood.png)
 
 # Sleepywood 👋
 
@@ -33,6 +33,16 @@
 ### 주요사용기술
 
 - #### 개발 환경
+  - **Client(Mobile)**
+  
+  	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unity](https://img.shields.io/badge/Photon-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=iOS&logoColor=white) ![WatchOS](https://img.shields.io/badge/WatchOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+	with native iOS/watchOS (HealthKit, CoreMotion, CoreML) Machine Learning
+  - **Client(Web)** 
+  
+	  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
+  
+	  Blockchain, NFT
   - **Server** 
   
 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,21 +50,9 @@
 	MySQL stack deployed on AWS Cloud (ECS/Fargate & RDS) 
   
 	CI/CD with AWS CodePipeline
-	
-  - **Client(Web)** 
-  
-	  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
-  
-	  Blockchain, NFT
-	  
-  - **Client(Mobile)**
-  
-  	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unity](https://img.shields.io/badge/Photon-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-	with native iOS/watchOS (HealthKit, CoreMotion, CoreML) Machine Learning
 
 - #### 개발 언어
-	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 	![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   
 ### 독창성/차별성
 
@@ -72,14 +70,15 @@
 
 ## 🧑‍🚀 팀원 소개
 
-|[박인영](https://github.com/PIYoung)|[이재욱](https://github.com/jvvook)|[박대렬](https://github.com/DAERYEOL)|[조한나](https://github.com/DesignerCho)|[강수현](https://github.com/Suhyun77)|[고현서](https://github.com/KoHyeonSeo)|
+|[강수현](https://github.com/Suhyun77)|[고현서](https://github.com/KoHyeonSeo)|[박대렬](https://github.com/DAERYEOL)|[박인영](https://github.com/PIYoung)|[이재욱](https://github.com/jvvook)|[조한나](https://github.com/DesignerCho)|
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| <a href="https://github.com/PIYoung"><img src="https://avatars.githubusercontent.com/u/49637184?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/jvvook"><img src="https://avatars.githubusercontent.com/u/24962972?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/DAERYEOL"><img src="https://avatars.githubusercontent.com/u/47146732?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/DesignerCho"><img src="https://avatars.githubusercontent.com/u/112854279?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/Suhyun77"><img src="https://avatars.githubusercontent.com/u/86099781?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/KoHyeonSeo"><img src="https://avatars.githubusercontent.com/u/76097749?v=4" alt="Avatar" width="150px" /></a> |
-| 네트워크/AI | AI/DevOps | 모델링 | 기획 | XR | XR |
+| <a href="https://github.com/Suhyun77"><img src="https://avatars.githubusercontent.com/u/86099781?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/KoHyeonSeo"><img src="https://avatars.githubusercontent.com/u/76097749?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/DAERYEOL"><img src="https://avatars.githubusercontent.com/u/47146732?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/PIYoung"><img src="https://avatars.githubusercontent.com/u/49637184?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/jvvook"><img src="https://avatars.githubusercontent.com/u/24962972?v=4" alt="Avatar" width="150px" /></a> | <a href="https://github.com/DesignerCho"><img src="https://avatars.githubusercontent.com/u/112854279?v=4" alt="Avatar" width="150px" /></a> | 
+| XR | XR | 모델링 | 네트워크/AI | AI/DevOps | 기획 |
 
 ## 📜 프로젝트 산출물
 
 - [기획서](https://github.com/sleepy-wood/Overview/blob/main/%EA%B8%B0%ED%9A%8D%EC%84%9C/Sleepywood%20%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
 - [발표자료](https://github.com/sleepy-wood/Overview/tree/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
 - [주차보고서](https://github.com/sleepy-wood/Overview/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C)
+- [포스터(준비중)](https://github.com/sleepy-wood/Overview/blob/main/%EA%B8%B0%ED%9A%8D%EC%84%9C/Sleepywood%20%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
 - [시연영상(준비중)](https://github.com/sleepy-wood/Overview/blob/main/%EA%B8%B0%ED%9A%8D%EC%84%9C/Sleepywood%20%EA%B8%B0%ED%9A%8D%EC%95%88.pdf)
