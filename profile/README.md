@@ -35,7 +35,7 @@
 - #### 개발 환경
   - **Client(Mobile)**
   
-  	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unity](https://img.shields.io/badge/Photon-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unity](https://img.shields.io/badge/Photon-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=iOS&logoColor=white) ![WatchOS](https://img.shields.io/badge/WatchOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 	with native iOS/watchOS (HealthKit, CoreMotion, CoreML) Machine Learning
   - **Client(Web)** 
