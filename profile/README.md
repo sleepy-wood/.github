@@ -1,6 +1,6 @@
 ![banner](https://github.com/sleepy-wood/.github/blob/main/profile/sleepywood.png)
 
-# Sleepywood 👋
+# Sleepywood 🌲
 
 ## 📌 프로젝트 소개
 
