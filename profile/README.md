@@ -33,13 +33,13 @@
 ### 주요사용기술
 
 - #### 개발 환경
-  - <b>Server</b> <br>
+  - **Server** <br>
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br>
   MySQL stack deployed on AWS Cloud (ECS/Fargate & RDS)
    CI/CD with AWS CodePipeline
-  - <b>Client(Web)</b> <br>
+  - **Client(Web)** <br>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) (NFT, Blockchain)
-  - <b>Client(Mobile)</b> <br>
+  - **Client(Mobile)** <br>
     	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unity](https://img.shields.io/badge/Photon-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
         <br> with native iOS/watchOS (HealthKit, CoreMotion, CoreML) Machine Learning: 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 - #### 개발 언어
