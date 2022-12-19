@@ -90,3 +90,7 @@
 - [주차보고서](https://github.com/sleepy-wood/Overview/tree/main/%EC%A3%BC%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C)
 - [포스터](https://github.com/sleepy-wood/Overview/blob/main/2-11_Build-Up.png)
 - [시연영상](https://www.youtube.com/watch?v=ixdDUhUe_Ls)
+
+## 🏆 수상
+
+- 장려상 (한국전파진흥협회장)
