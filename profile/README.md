@@ -94,3 +94,5 @@
 ## 🏆 수상
 
 - 장려상 (한국전파진흥협회장)
+- 기념사진 (feat. 🪖🫡 이재욱[군인])
+<img height="300" src="https://github.com/sleepy-wood/Overview/blob/main/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%85%E1%85%A7%E1%84%89%E1%85%A1%E1%86%BC.jpeg" alt="장려상" />
