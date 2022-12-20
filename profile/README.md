@@ -98,4 +98,4 @@
 - 최종 성과공유회 장려상 (한국전파진흥협회장)
 - 상금 (100만원)
 - 기념사진 (feat. 🪖🫡 이재욱[군인]) <br>
-<img height="300" src="https://github.com/sleepy-wood/Overview/blob/main/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%85%E1%85%A7%E1%84%89%E1%85%A1%E1%86%BC.jpeg" alt="장려상" /> <img height="300" src="https://user-images.githubusercontent.com/76097749/208600252-e76edf55-2df0-4b5d-9b51-62413056ebc2.jpg" />
+<img height="300" src="https://github.com/sleepy-wood/Overview/blob/main/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%85%E1%85%A7%E1%84%89%E1%85%A1%E1%86%BC.jpeg" alt="장려상" /> <img height="300" width="300" src="https://user-images.githubusercontent.com/76097749/208600252-e76edf55-2df0-4b5d-9b51-62413056ebc2.jpg" />
